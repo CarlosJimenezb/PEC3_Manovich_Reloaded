@@ -8,6 +8,14 @@ Fecha: 23/05/2023
 
 ## Planteamiento
 
+La tecnología digital y el software han transformado drásticamente no sólo cómo interactuamos con el mundo, sino también cómo comprendemos y definimos conceptos como la creatividad, la música, la comunicación y el hogar. En este trabajo, utilizaremos las "gafas de Manovich" para explorar y analizar dos casos emblemáticos de esta transformación cultural y tecnológica.
+
+En primer lugar, analizaremos Ableton Live, un software de creación musical que incorpora características de los sintetizadores modulares. Ableton Live es un paradigma del concepto de hibridación de Manovich, ya que combina en un solo software las posibilidades de la composición musical y las capacidades de un sintetizador modular.
+
+En segundo lugar, examinaremos Alexa, el asistente de voz de Amazon, y su papel en la creación de hogares inteligentes. Al igual que Ableton Live, Alexa es un producto de la hibridación del software, combinando la inteligencia artificial, la computación en la nube, el reconocimiento de voz y la IoT en un único dispositivo.
+
+A través de estas dos lentes, Ableton Live y Alexa, este trabajo explorará cómo la hibridación del software está transformando nuestras vidas y nuestra cultura, y cómo, a través de las "gafas de Manovich", podemos obtener una visión más profunda de estos cambios y su significado.
+
 ## Re-descubriendo la hibridacion: Ableton Live como Sintetizadores modulares y software de creación musical.
 
 Cuando observamos a Ableton Live a través de "las gafas de Manovich", es evidente que el software se ha convertido en un mediador activo de la creación musical y la cultura contemporánea. Ableton Live es más que una simple herramienta para la creación musical; es un espacio de posibilidades que redefine los límites de la música digital y la música acústica, reconfigura la relación entre el artista y su arte.
